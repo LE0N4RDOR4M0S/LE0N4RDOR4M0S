@@ -26,7 +26,7 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
 
 ### 📫 Entre em Contato
 
-- **E-mail:** leoolivramos@gamil.com
+- **E-mail:** leoolivramos@gmail.com
 - **LinkedIn:** [linkedin.com/in/leonardo-de-oliveira-ramos-690318270/](https://www.linkedin.com/in/leonardo-de-oliveira-ramos-690318270/)
 
 ### 😄 Curiosidades

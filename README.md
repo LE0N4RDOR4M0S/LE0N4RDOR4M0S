@@ -29,12 +29,6 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
 - **E-mail:** leoolivramos@gmail.com
 - **LinkedIn:** [linkedin.com/in/leonardo-de-oliveira-ramos-690318270/](https://www.linkedin.com/in/leonardo-de-oliveira-ramos-690318270/)
 
-### 😄 Curiosidades
-
-- Fora do mundo da tecnologia, adoro me manter ativo! Desde treinos na academia até nadar na piscina e jogar futebol nos finais de semana, gosto de estar em movimento.
-- Gosto de experimentar novas receitas na cozinha e tenho um verdadeiro interesse em culinária. Cozinhar para mim é uma forma de expressão criativa e uma maneira de compartilhar momentos agradáveis e deliciosas refeições com amigos e familiares.
-- Gosto de ler livros de história, explorando desde aventura e suspense até romance. Tenho um interesse diversificado e encontro prazer em mergulhar em diferentes gêneros literários, sempre em busca de novas narrativas e experiências fascinantes.
-
 ### 🤖 Mais Sobre Mim
 
 - **Ensino Médio Integrado**  

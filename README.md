@@ -46,4 +46,9 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   - Disciplinas incluem Programação em C/C++/Python, Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos próprios utilizando React.
 
+- **Estágiario na área de analise e desenvolvimento de sistemas - Atual**
+  **Controladoria Geral do Estado - CGE**
+  - Envolvimento em sistemas desenvolvidos em Java Spring Boot.
+  - Implementação de funcionalidades em front-end Vue e React.
+
 Obrigado por visitar meu perfil! Estou ansioso para nos conectarmos e colaborarmos em projetos interessantes juntos! 🚀

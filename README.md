@@ -51,7 +51,7 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   - Envolvimento em sistemas desenvolvidos em Java Spring Boot.
   - Implementação de funcionalidades em front-end Vue e React.
   
-  - **Desenvolvedor Back-End e Banco de Dados**  
+- **Desenvolvedor Back-End e Banco de Dados**  
     **Infocorp Jr (UFMT)**  
   - Desenvolvimento de sistemas completos em Java Spring Boot.
   - Modelagem de banco de dados relacionais.

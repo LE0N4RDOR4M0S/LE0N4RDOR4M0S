@@ -50,5 +50,11 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   **Controladoria Geral do Estado (CGE)**  
   - Envolvimento em sistemas desenvolvidos em Java Spring Boot.
   - Implementação de funcionalidades em front-end Vue e React.
+  
+  - **Desenvolvedor Back-End e Banco de Dados**  
+    **Infocorp Jr (UFMT)**  
+  - Desenvolvimento de sistemas completos em Java Spring Boot.
+  - Modelagem de banco de dados relacionais.
+  - Product Owner de Back-End e Banco de Dados.
 
 Obrigado por visitar meu perfil! Estou ansioso para nos conectarmos e colaborarmos em projetos interessantes juntos! 🚀

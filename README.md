@@ -41,7 +41,7 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   - Tecnologias utilizadas: Java Spring, HTML/CSS, JavaScript, Thymeleaf, PostgreSQL, Oracle, API da Google Cloud.
   - Rankeado em 19° colocação da trilha de Java de 90 alunos.
 
-- **2° Período Bacharelado em Ciência da Computação**  
+- **5° Período Bacharelado em Ciência da Computação**  
   **Universidade Federal de Mato Grosso (UFMT) | Campus Cuiabá**  
   - Disciplinas incluem Programação em C/C++/Python, Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos próprios utilizando React.

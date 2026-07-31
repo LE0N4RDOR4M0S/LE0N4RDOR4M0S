@@ -1,35 +1,34 @@
-## Olá! Eu sou Leonardo Ramos! 👋
+## Olá! Eu sou Leonardo Ramos!
 
 Bem-vindo ao meu mundo, onde a paixão pela tecnologia e a busca incessante por desafios se encontram em um universo de possibilidades!
 
 Sou um estudante apaixonado por Ciência da Computação na renomada Universidade Federal de Mato Grosso (UFMT), onde tenho a oportunidade de explorar os mais diversos conceitos e fundamentos dessa fascinante área. Desde os primeiros passos no mundo da programação até as complexidades da teoria da computação, cada desafio enfrentado é uma oportunidade de aprendizado e crescimento.
 
-### 🔭 Foco Atual
+### Foco atual
 
-Atualmente, estou focado em buscar um espaço no dinâmico e empolgante mercado de desenvolvimento web. Através do aprendizado contínuo e da prática constante, estou construindo meu caminho para me tornar um profissional qualificado e criativo nessa área tão vibrante.
+Atualmente, estou focado em buscar um espaço no dinâmico e empolgante mercado de desenvolvimento web. Através do aprendizado contínuo e da prática constante, estou construindo meu caminho para me tornar um profissional qualificado e criativo nessa área tão empolgante.
 
-### 🚀 Projetos Pessoais
+### Projetos pessoais principais
 
-1. **Sistema de Gerenciamento de Veículos Escolares**  
-   Um sistema completo desenvolvido em Spring Boot, Thymeleaf e integrado com um SGBD Postgres. Este projeto utiliza a API do Google Maps para fornecer recursos de localização e roteamento. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/Gestao-Veiculos)
+1. **Root L CDC Publisher**  
+   Uma plataforma de Change Data Capture (CDC) leve, modular e orientada à governança, construída em Java (Spring Boot) e desenhada com Arquitetura Hexagonal. O CDC Publisher extrai mutações de dados (Inserts, Updates, Deletes) diretamente do log transacional de bancos de dados relacionais e as publica em tempo real em um barramento de eventos (Apache Kafka).
+Diferente de soluções de prateleira que exigem permissões elevadas e acesso administrativo ao banco, este projeto foca no Privilégio Mínimo e na Governança na Origem. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/rootL_CDC_Publisher)
 
-2. **ToDoList em React**  
-   Um aplicativo simples, porém eficaz, desenvolvido em React para gerenciamento de tarefas. Com interface intuitiva e funcionalidades poderosas, este projeto demonstra minha habilidade em desenvolver aplicativos modernos e responsivos. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/ToDoList)
+2. **Private Driver**  
+   Sistema de armazenamento de arquivos com autenticação, organização por pastas, lixeira, compartilhamento público, criptografia obrigatória no backend, uma camada assíncrona de IA para indexação semântica e auto-tagging de imagens, além de integrações por API Keys e agentes locais para máquinas. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/root-L-drive)
 
-3. **Geração de PDF para Personal Trainer**  
-   Desenvolvi este projeto utilizando a biblioteca iText no Spring Boot para ajudar personal trainers a criar planilhas de treino personalizadas em formato PDF. Uma solução eficiente e prática para otimizar o trabalho e fornecer valor aos clientes. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/Gerador-de-PDF)
+3. **Repo Health AI**  
+   O projeto funciona como um pipeline de mineração de dados que transforma commits brutos em insights estratégicos, utilizando a API do Google Gemini como motor de inferência. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/saude-evolutiva-ia)
 
-4. **Interface de Jogo Torre de Hanói**  
-   Uma implementação interativa do famoso problema matemático "Torre de Hanói". Desenvolvi esta interface para ajudar a compreender os conceitos por trás do problema, ao mesmo tempo em que proporciona uma experiência divertida e desafiadora. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/Torre-de-Hanoi)
+4. **Data Lakehouse Local**  
+   Repositório contendo a infraestrutura as code (IaC) e pipelines de processamento para um Data Lakehouse 100% open-source, rodando localmente via containers. O ambiente foi desenhado para suportar alta volumetria e consultas analíticas de baixa latência em dados governamentais. O fluxo de dados segue o padrão Medallion Architecture para isolar a sujeira da origem e garantir um modelo analítico confiável na ponta. [Veja aqui!](https://github.com/LE0N4RDOR4M0S/lakehouse-lab)
 
-Cada um desses projetos reflete meu compromisso com a excelência, minha capacidade de aprender e dominar novas tecnologias e minha paixão por criar soluções inovadoras e eficazes. Sinta-se à vontade para explorar e experimentar esses projetos!
-
-### 📫 Entre em Contato
+### Entre em contato
 
 - **E-mail:** leoolivramos@gmail.com
 - **LinkedIn:** [linkedin.com/in/leonardo-de-oliveira-ramos-690318270/](https://www.linkedin.com/in/leonardo-de-oliveira-ramos-690318270/)
 
-### 🤖 Mais Sobre Mim
+### Mais sobre mim
 
 - **Ensino Médio Integrado**  
   **Instituto Federal de Mato Grosso (IFMT) | Campus Octayde Jorge da Silva**  
@@ -41,7 +40,7 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   - Tecnologias utilizadas: Java Spring, HTML/CSS, JavaScript, Thymeleaf, PostgreSQL, Oracle, API da Google Cloud.
   - Rankeado em 19° colocação da trilha de Java de 90 alunos.
 
-- **7° Período Bacharelado em Ciência da Computação**  
+- **8° Período Bacharelado em Ciência da Computação**  
   **Universidade Federal de Mato Grosso (UFMT) | Campus Cuiabá**  
   - Disciplinas incluem Programação em C/C++/Python, Algoritmos e Estruturas de Dados.
   - Desenvolvimento de projetos próprios utilizando React.
@@ -57,4 +56,10 @@ Cada um desses projetos reflete meu compromisso com a excelência, minha capacid
   - Modelagem de banco de dados relacionais.
   - Product Owner de Back-End e Banco de Dados.
 
-Obrigado por visitar meu perfil! Estou ansioso para nos conectarmos e colaborarmos em projetos interessantes juntos! 🚀
+- **Analista e desenvolvedor**
+  **Projeto NIESA**
+  - Levantamento de requisitos com stakeholders.
+  - Manutenção de sistema em Java Spring e Angular.
+  - Contato com o Ministério Público do Estado para implantação de uma versão interna do sistema.
+
+Obrigado por visitar meu perfil! Estou ansioso para nos conectarmos e colaborarmos em projetos interessantes!
